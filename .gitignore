@@ -1,0 +1,19 @@
+# STM32CubeIDE
+Debug/
+Release/
+build/
+
+# Eclipse
+.settings/
+.metadata/
+*.launch
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
