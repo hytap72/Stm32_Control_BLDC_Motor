@@ -1,10 +1,14 @@
-# STM32 MOTOR CONTROL
+# STM32 Motor Control
 
 ## MCU
 - STM32F411
 
 ## Features
-- Using PID Algorithm to Control BLDC Motor Speed
+- BLDC motor speed control using PID algorithm
+- Bare-metal (register-level) programming
 
-## Tool
+## Method
+- PWM generation using timer
+
+## Tools
 - STM32CubeIDE
