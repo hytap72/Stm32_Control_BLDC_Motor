@@ -1,4 +1,4 @@
-# STM32 Motor Control
+# STM32 Motor Control Bare-Mental Programming Project
 
 ## MCU
 - STM32F411
