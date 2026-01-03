@@ -13,4 +13,4 @@
 ## Tools
 - STM32CubeIDE
 
-![STM32F411-Based Motor Control Schematic] (Images/Schematic_Motor_Ctrl1_2026-01-03.png)
+![STM32F411-Based Motor Control Schematic](Images/Schematic_Motor_Ctrl1_2026-01-03.png)
